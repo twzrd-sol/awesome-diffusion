@@ -44,6 +44,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - description will be defined
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially those done by neural networks) easy, intuitive, and customizable.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 
 ## Tutorials
